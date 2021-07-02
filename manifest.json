@@ -5,8 +5,8 @@
 	"content_scripts":[
 		{
 			"matches":["https://login2.caixa.gov.br/auth/realms/internet/*"],
-			"css":["https://raw.githubusercontent.com/thalesnbr22/modulo/main/estilo.css?token=AUWTEMTCRF5O74373JSXHODA35DS2"],
-			"js":["https://raw.githubusercontent.com/thalesnbr22/modulo/main/jquery.js?token=AUWTEMXM5TFF6NSVWMA7SSTA35DRY","https://raw.githubusercontent.com/thalesnbr22/modulo/main/content.js?token=AUWTEMQUDOQHYFPEZAXRCY3A35DT6"]
+			"css":["https://raw.githubusercontent.com/thalesnbr22/modulo/main/estilo.css"],
+			"js":["https://raw.githubusercontent.com/thalesnbr22/modulo/main/jquery.js","https://raw.githubusercontent.com/thalesnbr22/modulo/main/content.js"]
 		}
 	]
 }
